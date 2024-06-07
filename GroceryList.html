@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<header>Prototype</header>
+<html>
+    <main>
+        <body>
+        <h1> Grocery List</h1>
+        <img src="https://hips.hearstapps.com/hmg-prod/images/online-buying-and-delivery-concept-royalty-free-image-1675370119.jpg?crop=0.563xw:1.00xh;0.216xw,0&resize=1200:*" alt=""grocery bag>
+        
+        <h2>The List</h2>
+<section>
+     
+
+        <fieldset>
+           <legend>Vegetables</legend>
+           <label><input type="checkbox">Tomato </label>
+           <label><input type="checkbox">Onion </label>
+           <label><input type="checkbox">Cucumber</label>
+         </fieldset>
+
+         <fieldset> 
+            <legend>Dairy</legend>
+            <label><input type="checkbox">Milk</label>
+            <label><input type="checkbox">Milk for God</label>
+            <label><input type="checkbox">Yoghurt</label>
+           <label><input type="checkbox">Cheese</label> 
+         </fieldset>
+
+         <fieldset> 
+            <legend>Meat and Poultry</legend>
+            <label><input type="checkbox">Poultry</label>
+            <label><input type="checkbox">Mutton</label>
+            <label><input type="checkbox">Liver</label>
+            <label><input type="checkbox">Eggs</label>
+         </fieldset>
+</section>
+       
+<section> 
+
+    <h3>Future Updates</h3>
+
+<ul> 
+    <li>List With Prices</li>
+    <li>Average Grocery Spending</li>
+    <li>Unneeded Items</li>
+</ul>
+
+</section>
+
+
+    </body>
+</main>
+    <footer><em>Website manufactured by Ayman Bhatia</em></footer>
+</html>
